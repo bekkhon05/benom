@@ -1,0 +1,46 @@
+#homebg1{
+    background-image: url(./123.png);
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    position: fixed;
+    
+}
+
+#xira1{
+    height: 90vh;
+    background-color: rgba(45, 58, 75, 0.5);
+    padding: 0px 60px;
+    width: 70%;
+    position: relative;
+    margin: 10vh auto 0 auto;
+}
+#stak1{
+    padding-top: 120px;
+    font-size: 32px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 300;
+    margin-right: 20px;
+    font-size: 4rem;
+    font-weight: 900;
+    
+}
+
+
+#azas1{
+    margin-top: 19px;
+    background-color: #455871;
+    position: relative;
+    right: -100px;
+    padding: 30px;
+    display: block;
+    height: 250px;
+    
+}
+#stakspan1{
+    font-size: 28px;
+}
+#azasspan1{
+    color: red;
+}

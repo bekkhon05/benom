@@ -1,0 +1,77 @@
+#homebg {
+    background-image: url(./1.png);
+    width: 100%;
+    /* height:100vh; */
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#homebg1 {
+    background-image: url(./fourth-bg.png);
+    width: 100%;
+    /* height:100vh; */
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#homebg2 {
+    background-image: url(./second-bg.png);
+    width: 100%;
+    /* height:100vh; */
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#homebg3 {
+    background-image: url(./third-bg.png);
+    width: 100%;
+    /* height:100vh; */
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#xira{
+    height: 93vh;
+    background-color: rgba(45, 58, 75, 0.5);
+}
+#xira-next{
+    /* max-width: 750px; */
+    height: 100vh;
+    background-color: rgba(45, 58, 75, 0.5);
+}
+
+#respon{
+    width: 95%;
+    height: auto;
+    /* background-color: rgb(251, 138, 0); */
+}
+.input {
+    min-width: 100%;
+    background-color: rgba(250, 250, 250, 0.05);
+    border: none;
+    color: #fff;
+    height: 35px;
+    margin-bottom: 20px;
+
+
+}
+
+.textarea {
+    background-color: rgba(250, 250, 250, 0.05);
+    border: none;
+    width:"100%";
+
+}
+#xira-grid{
+    height: 100vh;
+    background-color: rgba(45, 58, 75, 0.5);
+}
+body{
+    margin-left:-8px ;
+    margin-top: -8px;
+    margin-bottom: -8px;
+    margin-right: -8px;
+}
+.App {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120vh;
+  }
